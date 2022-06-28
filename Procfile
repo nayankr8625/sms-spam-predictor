@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run "C:\Users\nayan\PycharmProjects\SMS_spam_Predictor\venv\app.py"
+web: sh setup.sh && streamlit run app.py
